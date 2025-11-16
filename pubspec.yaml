@@ -1,0 +1,76 @@
+name: final_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Google Fonts
+  google_fonts: ^6.2.1
+
+  # Cupertino icons for iOS-style icons
+  cupertino_icons: ^1.0.8
+
+  # Native splash screen
+  flutter_native_splash: ^2.4.0
+
+  # Hex color support
+  hexcolor: ^3.0.1
+
+  # URL launcher
+  url_launcher: ^6.3.0
+
+  # ✅ Add GetX
+  get: ^4.6.6
+
+  # ✅ Add GetStorage
+  get_storage: ^2.1.1
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "asset/images/splash.png"
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - asset/data/products.json
+    - asset/images/splash.png
+    - asset/images/11.jpg
+    - asset/images/intro.png
+    - asset/images/intro1.png
+    - asset/images/intro2.png
+    - asset/images/shoe.jpg
+    - asset/images/shoe2.jpg
+    - asset/images/shoes2.jpg
+    - asset/images/shirt1.jpg
+    - asset/images/shirt2.jpg
+    - asset/images/shirt3.jpg
+    - asset/images/pant1.jpg
+    - asset/images/pant2.jpg
+    - asset/images/pant3.jpg
+    - asset/images/jacket1.jpg
+    - asset/images/jacket2.jpg
+    - asset/images/jacket3.jpg
+    - asset/images/a1.jpg
+    - asset/images/a2.jpg
+    - asset/images/a3.jpg
+    - asset/images/a4.jpg
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: asset/images/splash.png
+  android: true
+  ios: true

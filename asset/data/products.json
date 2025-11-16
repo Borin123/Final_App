@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "T-Shirt",
+      "name": "Basic White T-Shirt",
+      "price": 9.99,
+      "image": "asset/images/shirt1.jpg"
+    },
+    {
+      "id": 2,
+      "category": "T-Shirt",
+      "name": "Graphic Black Tee",
+      "price": 12.99,
+      "image": "asset/images/shirt2.jpg"
+    },
+    {
+      "id": 3,
+      "category": "T-Shirt",
+      "name": "Blue Sport T-Shirt",
+      "price": 11.49,
+      "image": "asset/images/shirt3.jpg"
+    },
+
+    {
+      "id": 4,
+      "category": "Pants",
+      "name": "Casual Jeans",
+      "price": 19.99,
+      "image": "asset/images/pant1.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Pants",
+      "name": "Black Cargo Pants",
+      "price": 21.99,
+      "image": "asset/images/pant2.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Pants",
+      "name": "Chino Pants",
+      "price": 18.50,
+      "image": "asset/images/pant3.jpg"
+    },
+
+    {
+      "id": 7,
+      "category": "Shoes",
+      "name": "Nike Air",
+      "price": 45.99,
+      "image": "asset/images/shoe.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Shoes",
+      "name": "Adidas Runner",
+      "price": 42.50,
+      "image": "asset/images/shoe2.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Shoes",
+      "name": "Puma Street",
+      "price": 39.99,
+      "image": "asset/images/shoes2.jpg"
+    },
+
+    {
+      "id": 10,
+      "category": "Jackets",
+      "name": "Leather Jacket",
+      "price": 59.99,
+      "image": "asset/images/jacket1.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Jackets",
+      "name": "Denim Jacket",
+      "price": 49.99,
+      "image": "asset/images/jacket2.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Jackets",
+      "name": "Hooded Jacket",
+      "price": 39.99,
+      "image": "asset/images/jacket3.jpg"
+    },
+
+    {
+      "id": 13,
+      "category": "Accessories",
+      "name": "Baseball Cap",
+      "price": 8.99,
+      "image": "asset/images/a1.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Accessories",
+      "name": "Sunglasses",
+      "price": 12.99,
+      "image": "asset/images/a2.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Accessories",
+      "name": "Leather Belt",
+      "price": 10.99,
+      "image": "asset/images/a3.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Accessories",
+      "name": "Wrist Watch",
+      "price": 25.99,
+      "image": "asset/images/a4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png"
+    },
+    {
+      "id": 2,
+      "name": "Tea",
+      "image": "https://cdn-icons-png.flaticon.com/512/2935/2935179.png"
+    },
+    {
+      "id": 3,
+      "name": "Juice",
+      "image": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png"
+    },
+    {
+      "id": 4,
+      "name": "Dessert",
+      "image": "https://cdn-icons-png.flaticon.com/512/869/869869.png"
+    },
+    {
+      "id": 5,
+      "name": "Snacks",
+      "image": "https://cdn-icons-png.flaticon.com/512/1046/1046786.png"
+    }
+  ]
+}
